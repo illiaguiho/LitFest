@@ -16,4 +16,4 @@ registerLink.addEventListener('click', function(){
     signInForm.style.display = "none";
     resgistrationForm.style.display = "block";
   }
-}); // cheh
+});
